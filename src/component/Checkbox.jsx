@@ -1,41 +1,3 @@
-// const Checkbox = ({
-//   id,
-//   text,
-//   className,
-//   checkboxClassName,
-//   labelClassName,
-//   checked,
-//   ...props
-// }) => {
-//   return (
-//     <div className={`relative flex items-center ${className}`}>
-//       <div className="flex items-center h-5 ">
-//         <input
-//           id={id}
-//           type="checkbox"
-//           className={`w-4 h-4 rounded cursor-pointer
-//             ${checkboxClassName}`}
-//           checked={checked}
-//           {...props}
-//         />
-//       </div>
-
-//       {text && (
-//         <label
-//           htmlFor={id}
-//           className={`ml-3 text-md cursor-pointer font-medium 
-//             ${labelClassName}`}
-//         >
-//           {text}
-//         </label>
-//       )}
-//     </div>
-//   );
-// };
-// export default Checkbox;
-
-
-
 
 const Checkbox = ({
   id,
@@ -50,7 +12,7 @@ const Checkbox = ({
     <div
       className={`relative flex items-center gap-2 select-none ${className}`}
     >
-      {/* Checkbox input */}
+     
       <input
         id={id}
         type="checkbox"
@@ -61,7 +23,7 @@ const Checkbox = ({
           ${checkboxClassName}`}
       />
 
-      {/* Label text */}
+     
       {text && (
         <label
           htmlFor={id}
@@ -75,3 +37,4 @@ const Checkbox = ({
 };
 
 export default Checkbox;
+
