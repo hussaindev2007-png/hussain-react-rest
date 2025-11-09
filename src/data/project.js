@@ -13,11 +13,11 @@
     {
       id: 2,
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8UTx4nBCbm0FKhMxreYXUydrTSM-P_pLLQ&s",
-      title: "Shawarma1",
+      title: "Tikha",
       description:
         "Aromatic arabian rice with 6 pacs of hot shots with KFC famous vietnamese sauce",
       price: 200,
-      category: "Shawarma",
+      category: "Tikha",
       rating: 4,
     },
     {
@@ -42,11 +42,11 @@
     {
       id: 5,
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8UTx4nBCbm0FKhMxreYXUydrTSM-P_pLLQ&s",
-      title: "Shawarma2",
+      title: "Tikha2",
       description:
         "Aromatic arabian rice with 6 pacs of hot shots with KFC famous vietnamese sauce",
       price: 500,
-      category: "Shawarma",
+      category: "Tikha",
       rating: 1,
     },
     {
@@ -71,11 +71,11 @@
     {
       id: 8,
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX8UTx4nBCbm0FKhMxreYXUydrTSM-P_pLLQ&s",
-      title: "Shawarma3",
+      title: "Tikha3",
       description:
         "Aromatic arabian rice with 6 pacs of hot shots with KFC famous vietnamese sauce",
       price: 800,
-      category: "Shawarma",
+      category: "Tikha",
       rating: 3,
     },
     {
@@ -87,4 +87,5 @@
       category: "Pizza",
       rating: 2,
     },
+
   ];
