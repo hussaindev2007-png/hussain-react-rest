@@ -29,21 +29,7 @@ function App() {
  
 
   return (
-    // <div>
-     
-    //   <div className="grid grid-cols-12 gap-3 my-2 mx-2">
-    //     <div className="col-span-2">
-    //       <CategoryFilter
-    //         selectedCategories={selectedCategories}
-    //         onChangeCategory={onChangeCategoryHandler}
-    //       />
-    //     </div>
-    //     <div className="col-span-10">
-          
-    //       <Products products={filterProducts} /> 
-           
-    //     </div>
-    //      <Footer/>
+  
 
 
     
@@ -59,10 +45,7 @@ function App() {
   </div>
 </div>
 
-        
-    //   </div>
-    // </div>
-
+     
 
 
     
