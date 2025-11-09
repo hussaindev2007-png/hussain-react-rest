@@ -16,5 +16,6 @@ export const categories = [
   },
 ];
 
-// get array of category title i.e, ['Burger', 'Shawarma'. 'Pizza']
+
+
 export const categoryTitle = categories.map((category) => category.title);
